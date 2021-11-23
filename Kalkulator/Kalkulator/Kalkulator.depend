@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623247136 source:c:\users\kubak\onedrive\pulpit\spoj\kalkulator\kalkulator\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+
